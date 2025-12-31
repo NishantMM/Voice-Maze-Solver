@@ -1,4 +1,4 @@
-Voice Maze Solver 
+# Voice Maze Solver 
 
 An interactive maze game built with Python and Pygame where you control the character using real-time voice commands.
 
